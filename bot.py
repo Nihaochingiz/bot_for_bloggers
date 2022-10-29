@@ -3,7 +3,7 @@ from datetime import date
 import telebot 
 gc = gspread.service_account()
 
-bot_token = '5449036965:AAGAAac76mt6c8AkVW-8g3h6SbkNoJtExec'
+bot_token = 'token'
 bot = telebot.TeleBot(bot_token)
 
 
